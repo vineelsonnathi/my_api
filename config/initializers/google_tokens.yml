@@ -1,0 +1,12 @@
+google:
+  ids:
+  application_name:
+  application_version:
+authorization:
+  token_credential_uri:
+  audience_uri:
+  service_email:
+discover_api:
+  analytics:
+service_account:
+  password:
